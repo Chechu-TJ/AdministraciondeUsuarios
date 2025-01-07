@@ -26,9 +26,9 @@ Para ejecutar el script principal, asegúrate de tener permisos de superusuario 
 sudo ./Generador_y_Administracion_usuarios.sh
 
 
-CREDITOS
+## CREDITOS
 
 Desarrollado por Chechu-TJ
 
-LICENCIA
+## LICENCIA
 Este proyecto está bajo la Licencia MIT - mira el archivo LICENCE  para más detalles
