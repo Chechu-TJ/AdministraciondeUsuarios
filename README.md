@@ -9,8 +9,8 @@ Este proyecto incluye dos scripts. El **script principal** se encarga de adminis
 
 ## Instalación
 
-1. Clona el repositorio:
- –bash
+1. Clona el repositorio (bash):
+
     git clone https://github.com/Chechu-TJ/AdministraciondeUsuarios
   
 2. Navega al directorio del proyecto (bash):
