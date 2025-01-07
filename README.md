@@ -13,8 +13,8 @@ Este proyecto incluye dos scripts. El **script principal** se encarga de adminis
  –bash
     git clone https://github.com/Chechu-TJ/AdministraciondeUsuarios
   
-2. Navega al directorio del proyecto:
-   –bash
+2. Navega al directorio del proyecto (bash):
+   
     cd Chechu-TJ/AdministraciondeUsuarios
    
 
