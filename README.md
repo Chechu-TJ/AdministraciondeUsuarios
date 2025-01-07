@@ -22,7 +22,7 @@ Este proyecto incluye dos scripts. El **script principal** se encarga de adminis
 
 Para ejecutar el script principal, asegúrate de tener permisos de superusuario y ejecuta el siguiente comando:
 
-```bash
+--bash
 sudo ./Generador_y_Administracion_usuarios.sh
 
 
